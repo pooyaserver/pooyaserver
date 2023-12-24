@@ -90,7 +90,7 @@ sudo systemctl start apache2
 ufw allow 'Apache Full'
 sudo systemctl restart apache2
 
-colorized_echo green "Installing Zanbor . . ."
+colorized_echo green "Installing PooyaServer . . ."
 
 sleep 2
 
