@@ -16,7 +16,7 @@ https://Domain.com/folder/install/install.html
 - وارد سرور خود شوید.
 - دستور زیر رو برای نصب ربات ارسال کنید.
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/pooyaserver/pooyaserver/main/pooya.sh)
+bash <(curl -s https://raw.githubusercontent.com/pooyaserver/pooyaserver/main/install.sh)
 ```
 - بعد از اجرای این دستور باید کمی صبر کنید تا به مرحله وارد کردن دامنه برسید.
 - دامنه اتون را بدون `http` و `https` وارد کنید ( حتما باید `SSL` دامنه فعال باشد )
